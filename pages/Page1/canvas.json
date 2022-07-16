@@ -97,7 +97,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.387096774193548,
+                      "leftColumn": 11,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -110,7 +110,7 @@
                       "isDisabled": false,
                       "key": "np2crbyqz4",
                       "isDeprecated": false,
-                      "rightColumn": 51.61290322580645,
+                      "rightColumn": 50,
                       "isDefaultClickDisabled": true,
                       "widgetId": "lr8qob2792",
                       "isVisible": true,
